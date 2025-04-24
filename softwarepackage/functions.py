@@ -1,5 +1,8 @@
 """Provide the primary functions."""
+
 import this
+
+
 def zen(with_attribution=True):
     quote = """Beautiful is better than ugly.
     Explicit is better than implicit.
@@ -22,9 +25,10 @@ def zen(with_attribution=True):
     Namespaces are one honking great idea -- let's do more of those!"""
 
     if with_attribution:
-      quote += "\n\tTim Peters"
+        quote += "\n\tTim Peters"
 
     return quote
+
 
 def canvas(with_attribution=True):
     """
