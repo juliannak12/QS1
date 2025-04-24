@@ -16,6 +16,10 @@ This package requires the following:
   - NumPy
   - matplotlib
 
+To submit your feature to be incorporated into the main branch, 
+you should submit a `Pull Request`. 
+The repository maintainers will review your pull request before accepting your changes.
+
 First Quantum Software Package
 
 ### Copyright
