@@ -5,6 +5,14 @@ myproject
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/myproject/branch/main/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/myproject/branch/main)
 
 
+
+This repository is currently under development. To do installation in development mode, download this repository and type
+
+`pip install -e .`
+
+in the repository directory.
+
+
 First Quantum Software Package
 
 ### Copyright
